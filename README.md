@@ -11,27 +11,27 @@ A modern, intuitive budgeting application built with Laravel that helps users ta
 
 ## 📱 Screenshots
 
-### 🏠 Landing Page
+### Landing Page
 *Beautiful, minimal landing page showcasing the app's value proposition*
 
 ![Landing Page](home.png)
 
-### 📊 Dashboard Overview
+### Dashboard Overview
 *Clean, modern dashboard showing financial summary, charts, and quick actions*
 
 ![Dashboard](dashboard.png)
 
-### 🏦 Account Management
+### Account Management
 *Comprehensive account overview with balances and quick transaction options*
 
 ![Accounts](accounts.png)
 
-### 🏷️ Categories & Budget Tracking
+### Categories & Budget Tracking
 *Smart category management with budget allocation and completion percentages*
 
 ![Categories & Budget](categoriesbudget.png)
 
-### 💳 Transaction Management
+### Transaction Management
 *Detailed transaction tracking with filtering, search, and categorization*
 
 ![Transactions](transactions.png)
@@ -88,7 +88,7 @@ A modern, intuitive budgeting application built with Laravel that helps users ta
 - **NPM** - JavaScript package management
 - **Artisan** - Laravel's command-line interface
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - PHP 8.2 or higher
@@ -152,7 +152,7 @@ Visit `http://localhost:8000` to see BudgetBento in action!
 - **Data Validation**: Server-side validation for all user inputs
 - **Authorization**: User-specific data access controls
 
-## 📊 Database Schema
+## Database Schema
 
 ### **Core Tables**
 - `users` - User authentication and profile data
@@ -162,7 +162,7 @@ Visit `http://localhost:8000` to see BudgetBento in action!
 - `transactions` - All financial transactions
 - `recurring_transactions` - Automated recurring entries
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -172,7 +172,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
