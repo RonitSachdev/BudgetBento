@@ -38,37 +38,37 @@ A modern, intuitive budgeting application built with Laravel that helps users ta
 
 ## 🌟 Features
 
-### 💰 **Core Budgeting**
+### **Core Budgeting**
 - **Zero-Based Budgeting**: Assign every yen a purpose before spending
 - **Monthly Budget Planning**: Set and track category-based budgets
 - **Real-time Balance Tracking**: Instant updates across all accounts
 - **Budget vs. Actual Analysis**: Visual comparison of planned vs. actual spending
 
-### 🏦 **Account Management**
+### **Account Management**
 - **Multiple Account Types**: Checking, Savings, Cash, Credit Cards
 - **Account Balances**: Real-time balance tracking and updates
 - **Transaction History**: Comprehensive transaction logging
 - **Account Transfers**: Easy money movement between accounts
 
-### 🔄 **Smart Automation**
+### **Smart Automation**
 - **Recurring Transactions**: Automated income and expense processing
 - **Flexible Scheduling**: Daily, weekly, monthly, yearly frequencies
 - **Custom Intervals**: Every 2 weeks, every 3 months, etc.
 - **Automatic Budget Updates**: Smart allocation of recurring transactions
 
-### 📊 **Visual Analytics**
+### **Visual Analytics**
 - **Interactive Charts**: Budget overview and spending trends
 - **Period Comparisons**: Week, month, year view switching
 - **Category Insights**: Detailed spending breakdown by category
 - **Historical Analysis**: Track financial progress over time
 
-### 🎨 **User Experience**
+### **User Experience**
 - **Modern UI**: Clean, intuitive interface with Tailwind CSS
 - **Responsive Design**: Perfect experience on desktop and mobile
 - **Smart Categories**: Customizable categories with colors and icons
 - **Setup Wizard**: Guided onboarding for new users
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Backend**
 - **Laravel 11.x** - Modern PHP framework with elegant syntax
@@ -134,7 +134,7 @@ A modern, intuitive budgeting application built with Laravel that helps users ta
 
 Visit `http://localhost:8000` to see BudgetBento in action!
 
-## 🏗️ Architecture & Design Patterns
+## Architecture & Design Patterns
 
 ### **MVC Architecture**
 - **Models**: Eloquent ORM for database interactions
@@ -176,7 +176,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Developer
+## Developer
 
 **[Ronit Sachdev]**
 - 🌐 Portfolio: [webronitsachdev.web.app](https://webronitsachdev.web.app)
